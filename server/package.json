@@ -1,0 +1,19 @@
+{
+  "name": "react_fullstack",
+  "version": "1.0.0",
+  "description": "server side",
+  "main": "index.js",
+  "engine":{
+    "node": "10.15.3",
+    "npm": "6.5.0"
+
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nicky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
